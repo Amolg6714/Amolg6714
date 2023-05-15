@@ -1,0 +1,57 @@
+GIT and its commands :-
+
+1) ls = list command 
+	This command shows us the Files and Folders contains in the current directory.
+
+2) mkdir <file_name> = make a directory command
+	This command is used to make a directory into the current directory.
+	
+3) touch <filename> = touch command
+	This command is used to create a empty file.
+	
+4) pwd  = print working directory command
+	This command prints the full path of working/current directory.
+	
+5) git init = git intailize command
+	This commnad intialise the empty git repository in current directory.
+
+6) ls -a  = list command
+	This command is used to list all files with hidden files.
+
+7) git status = status command
+	This command is use to check the status of changes done whether it is tracked or untracked.
+
+8) git add <filename> = add command
+	This command is used to add the files on staging area.
+	We can add all files by git add . OR a specific file by 
+		git add <filename>
+
+9) git commit -m "<message>" = commit command
+	This command is used to commit changes with the user defined message.
+	
+10) git restore --staged <filename> = restore command
+	This command is used to restore the files from staged to unstaged directory.
+
+11) git log = log command
+	This command is used to check the GIT history.
+	
+12) git reset <hashID> = reset changes command
+	This command is used to reset the changes or commits.
+	While using this command we must have to use the exact below
+		hashID at which step we need to reset the changes.
+
+13) 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
